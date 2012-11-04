@@ -3,6 +3,9 @@ established_check
 
 同時接続数のチェックスクリプト/バッチ
 
+Licence		: GPL v2
+		: http://www.gnu.org/licenses/gpl.txt
+
 [for linux Script(bash)]
 
 Usage		: ./established_check.sh [1-65535]
